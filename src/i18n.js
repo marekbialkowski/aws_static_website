@@ -62,7 +62,7 @@ const locales = {
       schedule: 'Grafik'
     },
     news: {
-      news: 'Aktualności:',
+      news: 'Aktualności: NEW !!!!!!!',
       added: 'Dodane: ',
       readMore: 'Czytaj więcej',
       nextNews: 'Następne wpisy'
